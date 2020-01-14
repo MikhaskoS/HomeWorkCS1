@@ -6,7 +6,11 @@ namespace MkGame
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Work :(");
+            Lesson01.Task1(); Console.ReadLine();
+            Lesson01.Task2(); Console.ReadLine();
+            Lesson01.Task3(); Console.ReadLine();
+            Lesson01.Task4(); Console.ReadLine();
+            Lesson01.Task5(); Console.ReadLine();
         }
     }
 }
